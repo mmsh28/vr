@@ -1,0 +1,11 @@
+Model Information:
+* title:	Maruti Suzuki Omni x Outlaw Project
+* source:	https://sketchfab.com/3d-models/maruti-suzuki-omni-x-outlaw-project-a5d4f141ecec45b3a7e4f3a632e9cdc4
+* author:	Subin (https://sketchfab.com/subink)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Maruti Suzuki Omni x Outlaw Project" (https://sketchfab.com/3d-models/maruti-suzuki-omni-x-outlaw-project-a5d4f141ecec45b3a7e4f3a632e9cdc4) by Subin (https://sketchfab.com/subink) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
