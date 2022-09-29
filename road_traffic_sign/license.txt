@@ -1,0 +1,11 @@
+Model Information:
+* title:	Road Traffic Sign
+* source:	https://sketchfab.com/3d-models/road-traffic-sign-13eeb2da01c046a1a0fc8ce8a7e262ab
+* author:	Solarliu (https://sketchfab.com/jacky15621419)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Road Traffic Sign" (https://sketchfab.com/3d-models/road-traffic-sign-13eeb2da01c046a1a0fc8ce8a7e262ab) by Solarliu (https://sketchfab.com/jacky15621419) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

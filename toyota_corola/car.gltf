@@ -1,0 +1,554 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1392,
+      "max": [
+        1.3872654438018799,
+        2.920978307723999,
+        27.158573150634766
+      ],
+      "min": [
+        -15.540979385375977,
+        -2.920977830886841,
+        -2.9246292114257813
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 16704,
+      "componentType": 5126,
+      "count": 1392,
+      "max": [
+        0.9999879002571106,
+        0.9877336025238037,
+        0.9877261519432068
+      ],
+      "min": [
+        -0.9999879598617554,
+        -0.9877335429191589,
+        -0.9877262115478516
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1392,
+      "max": [
+        1.0000511407852173,
+        0.9937795400619507
+      ],
+      "min": [
+        0.014834225177764893,
+        0.006221413612365723
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1392,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 33408,
+      "componentType": 5126,
+      "count": 3162,
+      "max": [
+        7.739706516265869,
+        13.640327453613281,
+        11.19620418548584
+      ],
+      "min": [
+        -7.418050289154053,
+        2.9566431045532227,
+        -12.256346702575684
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 71352,
+      "componentType": 5126,
+      "count": 3162,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9996452331542969,
+        -0.9986500144004822
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 11136,
+      "componentType": 5126,
+      "count": 3162,
+      "max": [
+        0.9538559913635254,
+        0.9997739791870117
+      ],
+      "min": [
+        0.00012099999730708078,
+        0.001340031623840332
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 5568,
+      "componentType": 5125,
+      "count": 3252,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 109296,
+      "componentType": 5126,
+      "count": 7392,
+      "max": [
+        10.001811981201172,
+        13.86086368560791,
+        23.17445182800293
+      ],
+      "min": [
+        -9.767274856567383,
+        1.6641337871551514,
+        -18.162776947021484
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 198000,
+      "componentType": 5126,
+      "count": 7392,
+      "max": [
+        1.0,
+        0.9997408390045166,
+        0.9999748468399048
+      ],
+      "min": [
+        -1.0,
+        -0.9999890923500061,
+        -0.99997478723526
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 36432,
+      "componentType": 5126,
+      "count": 7392,
+      "max": [
+        0.9839299917221069,
+        0.9930559992790222
+      ],
+      "min": [
+        0.008004000410437584,
+        0.0056340694427490234
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 18576,
+      "componentType": 5125,
+      "count": 7428,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 286704,
+      "componentType": 5126,
+      "count": 246,
+      "max": [
+        7.696147441864014,
+        13.619075775146484,
+        11.19620418548584
+      ],
+      "min": [
+        -7.461609840393066,
+        8.695371627807617,
+        -12.256346702575684
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 289656,
+      "componentType": 5126,
+      "count": 246,
+      "max": [
+        0.9281290769577026,
+        0.8293757438659668,
+        0.707579493522644
+      ],
+      "min": [
+        -0.9281290769577026,
+        0.37094178795814514,
+        -0.7176564335823059
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 95568,
+      "componentType": 5126,
+      "count": 246,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.20509999990463257,
+        0.03630697727203369
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 48288,
+      "componentType": 5125,
+      "count": 246,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "danieljorge435 (https://sketchfab.com/danieljorge435)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/toyota-corola-aab1b90a73f7416890c31a8927cc5038",
+      "title": "Toyota Corola"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 49272,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 97536,
+      "byteOffset": 49272,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 292608,
+      "byteOffset": 146808,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 439416,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Default_Material_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Mat.2_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Default_Material_0_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Default_Material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.2761051829268293,
+          0.2761051829268293,
+          0.2761051829268293,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.17854420731707318,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Mat.2",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Default_Material_0",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6907393292682927,
+          0.6907393292682927,
+          0.6907393292682927,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.09927591463414634,
+        "roughnessFactor": 0.8709283074
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          0.4468368902
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "wheel_Default Material_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "car_Mat.2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "car_Default Material_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "car_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "toyota.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        7.1043806076049805,
+        2.8656728267669678,
+        -11.736289024353027,
+        1.0
+      ],
+      "name": "wheel"
+    },
+    {
+      "mesh": 0,
+      "name": "wheel_Default Material_0"
+    },
+    {
+      "children": [
+        6,
+        7,
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.10837889462709427,
+        0.0,
+        -2.568143606185913,
+        1.0
+      ],
+      "name": "car"
+    },
+    {
+      "mesh": 1,
+      "name": "car_Mat.2_0"
+    },
+    {
+      "mesh": 2,
+      "name": "car_Default Material_0"
+    },
+    {
+      "mesh": 3,
+      "name": "car_Mat_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
