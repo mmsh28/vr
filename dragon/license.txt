@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dragon
+* source:	https://sketchfab.com/3d-models/dragon-491f9cbe8ef14c05b8fd6cc9793f461a
+* author:	242trevor (https://sketchfab.com/242trevor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dragon" (https://sketchfab.com/3d-models/dragon-491f9cbe8ef14c05b8fd6cc9793f461a) by 242trevor (https://sketchfab.com/242trevor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
