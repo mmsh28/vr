@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chinese Sword Jian
+* source:	https://sketchfab.com/3d-models/chinese-sword-jian-2682618468cd4addae5ce961d7f1e00b
+* author:	leeeck (https://sketchfab.com/leeeck)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chinese Sword Jian" (https://sketchfab.com/3d-models/chinese-sword-jian-2682618468cd4addae5ce961d7f1e00b) by leeeck (https://sketchfab.com/leeeck) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
