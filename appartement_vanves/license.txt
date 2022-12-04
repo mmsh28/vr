@@ -1,0 +1,11 @@
+Model Information:
+* title:	Appartement Vanves
+* source:	https://sketchfab.com/3d-models/appartement-vanves-2cca223f24f54e05a6900d7c409231d5
+* author:	dautelle.sylvain (https://sketchfab.com/dautelle.sylvain)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Appartement Vanves" (https://sketchfab.com/3d-models/appartement-vanves-2cca223f24f54e05a6900d7c409231d5) by dautelle.sylvain (https://sketchfab.com/dautelle.sylvain) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
