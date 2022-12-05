@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bed - Household Props Challenge
+* source:	https://sketchfab.com/3d-models/bed-household-props-challenge-ce43184bb6aa42a9aff18285a4fde0a6
+* author:	zhixson (https://sketchfab.com/zhixson)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bed - Household Props Challenge" (https://sketchfab.com/3d-models/bed-household-props-challenge-ce43184bb6aa42a9aff18285a4fde0a6) by zhixson (https://sketchfab.com/zhixson) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
