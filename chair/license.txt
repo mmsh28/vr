@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chair
+* source:	https://sketchfab.com/3d-models/chair-7ee53a783b8044b4af85ee81a6727bd2
+* author:	thespaceman (https://sketchfab.com/thespaceman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chair" (https://sketchfab.com/3d-models/chair-7ee53a783b8044b4af85ee81a6727bd2) by thespaceman (https://sketchfab.com/thespaceman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
